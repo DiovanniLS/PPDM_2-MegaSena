@@ -1,4 +1,4 @@
-package br.gov.sp.cps.buttontext;
+package br.gov.sp.cps.megasena;
 
 import org.junit.Test;
 
