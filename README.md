@@ -1,7 +1,4 @@
 # PPDM_2-MegaSena
-
-Aplicativo Android desenvolvido como atividade prática para a disciplina de Programação Mobile.
-
 O app realiza o sorteio de 6 números aleatórios (1 a 60), simulando um jogo da Mega Sena.
 
 📱Funcionalidades
